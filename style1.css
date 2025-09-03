@@ -572,6 +572,7 @@ section{
     font-size: 60px;
     line-height: 1;
     text-align: center;
+    padding-bottom: 70px;
 }
 .main-text h2 span{
     color: #0ef;
@@ -857,4 +858,5 @@ section{
         transform: translateY(0px);
         opacity: 1;
     }
+
 }
